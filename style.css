@@ -1,0 +1,33 @@
+fieldset{
+  text-align: left;
+}
+
+legend{
+  font-family: "Pacifico", cursive;
+}
+
+label{
+  font-family: "Bitter", serif;
+}
+
+.banner {
+  
+  background: linear-gradient(90deg, #9171b6 0%, #fc87cb 50%);
+  color: #333333; 
+  padding: 60px 40px;
+  font-family: Arial, sans-serif;
+}
+
+.center{
+  text-align: center;
+}
+
+h2{
+  font-family: "Great Vibes", cursive;
+  color: rgb(78, 0, 16);
+}
+
+p{
+  
+  font-family:"Ms Madi", cursive ;
+}
